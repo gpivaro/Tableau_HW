@@ -130,3 +130,4 @@ dmypy.json
 
 .csv
 .DS_store
+data/NY-2018-2020/
