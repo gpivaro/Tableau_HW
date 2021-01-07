@@ -1,4 +1,4 @@
-<a href="https://en.wikipedia.org/wiki/Citi_Bike"><img src="Images/Citi_Bike_logo.svg" alt="Citi Bike logo" width="155"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  
+<a href="https://en.wikipedia.org/wiki/Citi_Bike"><img src="Images/Citi_Bike_logo.svg" alt="Citi Bike logo" width="155"></a>
 # 2020 Annual Report
 
 
