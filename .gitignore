@@ -132,3 +132,7 @@ dmypy.json
 .DS_store
 data/NY-2018-2020/
 data/
+
+# Tableau
+
+.twbx
