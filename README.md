@@ -82,7 +82,7 @@ The merging and cleaning of the data was realized using Python and Pandas and it
 
 <li>Data Processing</li>
 
-The data was analyzed and processed using Tableau Public and is available at [here](https://github.com/gpivaro/Tableau_HW).
+The data was analyzed and processed using Tableau Public and is available [here](https://public.tableau.com/profile/gabriel3364#!/vizhome/CitiBike_16100022133330/Story).
 
 </ul>
 
