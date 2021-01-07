@@ -4,7 +4,7 @@
 
 Author: [Gabriel Pivaro](https://github.com/gpivaro/Tableau_HW)<br>
 
-This reports describe the data analysis available at this [link](https://public.tableau.com/profile/gabriel3364#!/vizhome/CitiBike_16100022133330/Story).<br>
+This report describes the data analysis of the 2020 Citi Bike program that is available at this [link](https://public.tableau.com/profile/gabriel3364#!/vizhome/CitiBike_16100022133330/Story).<br>
 
 
 <h3>Summary</h3>
