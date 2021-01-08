@@ -28,6 +28,8 @@ It is notorious that 2020 was a challenging year, especially for the city of New
 
 <h3>Annual Growth</h3>
 
+![view_1.png](Images/view_1.png)
+
 As mentioned before, the Citi Bike ride system recorded over 19 million rides during 2020. After the data cleanup, the data shows that members (subscribers) recorded 11,767,654 rides and non-members (customers) recorded 2,547,560 rides. 
 
 September was the month with more rides, totalizing 1,846,679 rides. On the other hand, April was the month with the lowest number of rides with 502,528 rides. The first four months of 2020 experienced a cumulative ridership growth of -17%, meaning a decrease in the system utilization from January to April. Despite the normal system utilization reduction due to the winter, this year the pandemic contributes negatively for this decrease in rides.
@@ -42,6 +44,8 @@ The proportion of members to non-members rides was as high as 93.93% in January 
 
 <h3>Summer vs Winter Peak Hours</h3>
 
+![view_2.png](Images/view_2.png)
+
 On summer months, the rides are more frequent between 2pm (14) to 7pm (19) with a clear peak around 6pm (18) that achieves averages over 150,000 rides.
 
 On the winter, the system registers two utilization peeks. The first one is around 8am, and the second one is around 5pm, both with peaks of over 80,000 rides on average.
@@ -49,6 +53,8 @@ On the winter, the system registers two utilization peeks. The first one is arou
 <hr>
 
 <h3>Most Popular Stations</h3>
+
+![view_3.png](Images/view_3.png)
 
 The most popular origins and destinations continue to be stations near large transit and tourist
 hubs, including the stations near Central Park, Penn Station and the Port Authority, Pershing
